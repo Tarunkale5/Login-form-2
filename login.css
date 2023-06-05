@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background: radial-gradient(red,white)
+}
+div{
+    margin: 5px;
+    width: 100px;
+    height: 250px;
+    border: 5px solid black;width: 300px;
+    margin:150px;
+    background-color: rgb(231,255,255);
+
+}
